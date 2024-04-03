@@ -47,4 +47,3 @@
 //     }
 // }
 // document.write(circumference(2))
-function area
